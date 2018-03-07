@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a58b02c9eccaa4a4aaf5d1aee973223d
+timeCreated: 1520189793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EffectsAttempt_0
+    21300002: EffectsAttempt_1
+    21300004: EffectsAttempt_2
+    21300006: EffectsAttempt_3
+    21300008: EffectsAttempt_4
+    21300010: EffectsAttempt_5
+    21300012: EffectsAttempt_6
+    21300014: EffectsAttempt_7
+    21300016: EffectsAttempt_8
+    21300018: EffectsAttempt_9
+    21300020: EffectsAttempt_10
+    21300022: EffectsAttempt_11
+    21300024: EffectsAttempt_12
+    21300026: EffectsAttempt_13
+    21300028: EffectsAttempt_14
+    21300030: EffectsAttempt_15
+    21300032: EffectsAttempt_16
+    21300034: EffectsAttempt_17
+    21300036: EffectsAttempt_18
+    21300038: EffectsAttempt_19
+    21300040: EffectsAttempt_20
+    21300042: EffectsAttempt_21
+    21300044: EffectsAttempt_22
+    21300046: EffectsAttempt_23
+    21300048: EffectsAttempt_24
+    21300050: EffectsAttempt_25
+    21300052: EffectsAttempt_26
+    21300054: EffectsAttempt_27
+    21300056: EffectsAttempt_28
+    21300058: EffectsAttempt_29
+    21300060: EffectsAttempt_30
+    21300062: EffectsAttempt_31
+    21300064: EffectsAttempt_32
+    21300066: EffectsAttempt_33
+    21300068: EffectsAttempt_34
+    21300070: EffectsAttempt_35
+    21300072: EffectsAttempt_36
+    21300074: EffectsAttempt_37
+    21300076: EffectsAttempt_38
+    21300078: EffectsAttempt_39
+    21300080: EffectsAttempt_40
+    21300082: EffectsAttempt_41
+    21300084: EffectsAttempt_42
+    21300086: EffectsAttempt_43
+    21300088: EffectsAttempt_44
+    21300090: EffectsAttempt_45
+    21300092: EffectsAttempt_46
+    21300094: EffectsAttempt_47
+    21300096: EffectsAttempt_48
+    21300098: EffectsAttempt_49
+    21300100: EffectsAttempt_50
+    21300102: EffectsAttempt_51
+    21300104: EffectsAttempt_52
+    21300106: EffectsAttempt_53
+    21300108: EffectsAttempt_54
+    21300110: EffectsAttempt_55
+    21300112: EffectsAttempt_56
+    21300114: EffectsAttempt_57
+    21300116: EffectsAttempt_58
+    21300118: EffectsAttempt_59
+    21300120: EffectsAttempt_60
+    21300122: EffectsAttempt_61
+    21300124: EffectsAttempt_62
+    21300126: EffectsAttempt_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EffectsAttempt_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 913
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 913
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 913
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 913
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 913
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 913
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 913
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 913
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 785
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 785
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 785
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 785
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 785
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 785
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 784
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_15
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 785
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 657
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 658
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 657
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 657
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 657
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_21
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 657
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 657
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_23
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 657
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 529
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 529
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 529
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 528
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 530
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 529
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 529
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_31
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 529
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 401
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 401
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 401
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 401
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_36
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 401
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_37
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 401
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 401
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_39
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 401
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 273
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 273
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 273
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 273
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_45
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 273
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_46
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 273
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_47
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 273
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 145
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 145
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_52
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 145
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_53
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 145
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_54
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 145
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_55
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 145
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_59
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 17
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_60
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 17
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_61
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 17
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_62
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 17
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EffectsAttempt_63
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 17
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
