@@ -1,0 +1,6 @@
+Marigold_Desktop.spm: 296
+Marigold_Hero.spm: 946
+Marigold_Mobile.spm: 220
+Marigold_Patch_Desktop.spm: 3190
+Marigold_Patch_Hero.spm: 9973
+Marigold_Patch_Mobile.spm: 850
