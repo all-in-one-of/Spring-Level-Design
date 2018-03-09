@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: ba62309b8f4a91640bc23c760c077937
-timeCreated: 1519993241
-licenseType: Free
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Altar:Altar_Altar:Base
     100002: Altar:Altar_Altar:Stairs1
@@ -124,10 +122,118 @@ ModelImporter:
     4300040: pCube7_polySurface2
     4300042: polySurface1_pCube7
     4300044: polySurface4_Myland3:Mesh
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Altar_Altar_Altar_BaseMat
+    second: {fileID: 2100000, guid: 25bdbd506ac1fd5409e88ffae2bd7874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Altar_Altar_Altar_Stairs1Mat
+    second: {fileID: 2100000, guid: 9e042aff60b84ae40b1f1a53398dc13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Altar_Railing1_Altar_AltarMat
+    second: {fileID: 2100000, guid: 3f72de8f4e800b44cbf8bbf02e37e942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low_Rez_Bhudda_polySurface2Mat
+    second: {fileID: 2100000, guid: 0166993e362293648a313e7d6bea9f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low_Rez_Hippo_polySurface2Mat
+    second: {fileID: 2100000, guid: fadb12a6fb1511e4282c61d4d0819209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low_Rez_Lion_polySurface8Mat
+    second: {fileID: 2100000, guid: dfcde580902e4f0448d6af43fa244ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low_Rez_Rabbit_polySurface2Mat
+    second: {fileID: 2100000, guid: 1f791448e16d1754cb82a197661cd02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_Mesh_polySurface3Mat
+    second: {fileID: 2100000, guid: 9f67d790f75522244bbaee3579d994d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCube1Mat
+    second: {fileID: 2100000, guid: 95e2bf936561c4342a88ff114bef8e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCube2Mat
+    second: {fileID: 2100000, guid: 68c2c1992d60b9144a7c04bdb598e34a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCylinder1Mat
+    second: {fileID: 2100000, guid: f0d578866a878ce4cb0baed04934e0aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCylinder2Mat
+    second: {fileID: 2100000, guid: aa9448acd15f5d540921717f94bc5480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCylinder3Mat
+    second: {fileID: 2100000, guid: 589156842de93cd4493bcd2d8989ec68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCylinder4Mat
+    second: {fileID: 2100000, guid: 3ef9c81aec606f747856de42e229deb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCylinder5Mat
+    second: {fileID: 2100000, guid: 4e177f29272fa8340802662dd88d5084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Myland3_pCylinder6Mat
+    second: {fileID: 2100000, guid: 26ecde5d7532541438255a21f31589d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube11Mat
+    second: {fileID: 2100000, guid: 0ca0ad2fd6279dc4e93e0e4b18387c32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube2Mat
+    second: {fileID: 2100000, guid: 019e3986245fccc47807015bbb088f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube7_polySurface2Mat
+    second: {fileID: 2100000, guid: e3a781a7e29c2cc439ac950d15e84b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface1_pCube7Mat
+    second: {fileID: 2100000, guid: 3d33f3d070885d240a00ed1dbf5e63bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface4_Myland3_MeshMat
+    second: {fileID: 2100000, guid: 731727e92f8be004981e511de83a1f28, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -140,6 +246,8 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -164,6 +272,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
