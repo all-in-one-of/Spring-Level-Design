@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 85c25a5068b92ae439a833d68fe23d59
+timeCreated: 1520883917
+licenseType: Free
+SubstanceImporter:
+  externalObjects: {}
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: iceland_grassy_cliff
+    prototypeName: iceland_grassy_cliff
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: iceland_grassy_cliff_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: iceland_grassy_cliff_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: iceland_grassy_cliff_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: iceland_grassy_cliff_height
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: iceland_grassy_cliff_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: iceland_grassy_cliff_fuzz_mask
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1069321367
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1069321365
+    - shaderProp: _DetailMask
+      material: {instanceID: 0}
+      baseUID: 881361672
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1069321453
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 878694605
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 1069321441
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
